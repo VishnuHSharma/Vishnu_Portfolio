@@ -6,7 +6,7 @@
 - Plot the moving averages comparing global temperatures and local temperatures of a given city.
 
 ### Weather Trends Dashboard created in Tableau
-![chart](https://github.com/VishnuHSharma/Udacity-Data-Analyst-Nanodegree/blob/master/Weather%20Trends%20Dashboard.png)
+![chart](https://github.com/VishnuHSharma/Vishnu_Portfolio/blob/master/Dashboard%201.png)
 
 ## Project 2 - Investigating and Reporting Findings from a dataset
 - Gather and assess a dataset and identify rudimentary errors that need to be remedied.
