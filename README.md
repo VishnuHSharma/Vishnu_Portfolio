@@ -6,7 +6,7 @@
 - Plot the moving averages comparing global temperatures and local temperatures of a given city.
 
 ### Weather Trends Dashboard created in Tableau
-![chart](/Images/Dashboard%201.png)
+![chart](Images/Dashboard%201.png)
 
 ## [Project 2 - Investigating and Reporting Findings from a dataset](https://github.com/VishnuHSharma/Udacity-Data-Analyst-Nanodegree)
 - Gather and assess a dataset and identify rudimentary errors that need to be remedied.
@@ -14,7 +14,7 @@
 - Utilize charts appropriately in order to convey information that is required.
 
 #### Are Movie runtimes getting longer or shorter?
-![](/Images/Runtime%20chart.png)
+![](Images/Runtime%20chart.png)
 
 ## [Project 3 - Visualizing Earnings based on Major](https://github.com/VishnuHSharma/Visualizing-earnings-based-on-major)
 
@@ -22,5 +22,5 @@
 - It contains information about college students and majors and their reported earnings. This project is a part of the dataquest data scientist path, but I extended it to do my    own analysis.
 
 #### Unemployment rate by Major
-![](/Images/Major%20Unemployment_rate.png)
+![](Images/Major%20Unemployment_rate.png)
 
