@@ -14,7 +14,7 @@
 - Utilize charts appropriately in order to convey information that is required.
 
 #### Are Movie runtimes getting longer or shorter?
-
+![](/Images/Runtime%20chart.png)
 
 ## [Project 3 - Visualizing Earnings based on Major](https://github.com/VishnuHSharma/Visualizing-earnings-based-on-major)
 
@@ -22,4 +22,5 @@
 - It contains information about college students and majors and their reported earnings. This project is a part of the dataquest data scientist path, but I extended it to do my    own analysis.
 
 #### Unemployment rate by Major
+![](/Images/Major%20Unemployment_rate.png)
 
