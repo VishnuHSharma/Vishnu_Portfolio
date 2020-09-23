@@ -14,7 +14,7 @@
 - Utilize charts appropriately in order to convey information that is required.
 
 #### Are Movie runtimes getting longer or shorter?
-![chart](https://github.com/VishnuHSharma/Udacity-Data-Analyst-Nanodegree/blob/master/Runtime%20chart.png)
+
 
 ## [Project 3 - Visualizing Earnings based on Major](https://github.com/VishnuHSharma/Visualizing-earnings-based-on-major)
 
@@ -22,4 +22,4 @@
 - It contains information about college students and majors and their reported earnings. This project is a part of the dataquest data scientist path, but I extended it to do my    own analysis.
 
 #### Unemployment rate by Major
-![chart](https://github.com/VishnuHSharma/Visualizing-earnings-based-on-major/blob/master/Major%20Unemployment_rate.png)
+
