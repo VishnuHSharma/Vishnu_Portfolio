@@ -4,6 +4,7 @@
 - Query data from SQL database and subsequently export it as CSV file.
 - Clean the data and calculate moving averages since it is time series data.
 - Plot the moving averages comparing global temperatures and local temperatures of a given city.
+- ### Technologies: SQL, Tableau, MS Excel
 
 ### Weather Trends Dashboard created in Tableau
 ![chart](Images/Dashboard%201.png)
